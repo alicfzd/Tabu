@@ -149,3 +149,4 @@ C:\Users\99460\Desktop\Tabu\Tabu\bin\Debug\net8.0\FluentValidation.dll
 C:\Users\99460\Desktop\Tabu\Tabu\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 C:\Users\99460\Desktop\Tabu\Tabu\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\99460\Desktop\Tabu\Tabu\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\99460\Desktop\Tabu\Tabu\obj\Debug\net8.0\Tabu.sourcelink.json

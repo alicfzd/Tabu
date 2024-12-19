@@ -3,36 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\99460\\Desktop\\Tabu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|c:\\users\\99460\\desktop\\tabu\\tabu\\services\\implements\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|solutionrelative:tabu\\services\\implements\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|c:\\users\\99460\\desktop\\tabu\\tabu\\configurations\\gameconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|solutionrelative:tabu\\configurations\\gameconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|c:\\users\\99460\\desktop\\tabu\\tabu\\profiles\\languageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|solutionrelative:tabu\\profiles\\languageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|c:\\users\\99460\\desktop\\tabu\\tabu\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|solutionrelative:tabu\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|c:\\users\\99460\\desktop\\tabu\\tabu\\dtos\\languages\\languagecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|solutionrelative:tabu\\dtos\\languages\\languagecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|c:\\users\\99460\\desktop\\tabu\\tabu\\services\\abstracts\\ilanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|solutionrelative:tabu\\services\\abstracts\\ilanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|c:\\users\\99460\\desktop\\tabu\\tabu\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|solutionrelative:tabu\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|c:\\users\\99460\\desktop\\tabu\\tabu\\dal\\tabudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|solutionrelative:tabu\\dal\\tabudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|c:\\users\\99460\\desktop\\tabu\\tabu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|solutionrelative:tabu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|c:\\users\\99460\\desktop\\tabu\\tabu\\configurations\\languageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|solutionrelative:tabu\\configurations\\languageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|c:\\users\\99460\\desktop\\tabu\\tabu\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|solutionrelative:tabu\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|c:\\users\\99460\\desktop\\tabu\\tabu\\entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|solutionrelative:tabu\\entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|c:\\users\\99460\\desktop\\tabu\\tabu\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|solutionrelative:tabu\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|c:\\users\\99460\\desktop\\tabu\\tabu\\services\\implements\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|solutionrelative:tabu\\services\\implements\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|c:\\users\\99460\\desktop\\tabu\\tabu\\services\\abstracts\\ilanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|solutionrelative:tabu\\services\\abstracts\\ilanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|c:\\users\\99460\\desktop\\tabu\\tabu\\exceptions\\languages\\languagenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|solutionrelative:tabu\\exceptions\\languages\\languagenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|c:\\users\\99460\\desktop\\tabu\\tabu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|solutionrelative:tabu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,89 +50,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ILanguageService.cs",
-              "DocumentMoniker": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Services\\Abstracts\\ILanguageService.cs",
-              "RelativeDocumentMoniker": "Tabu\\Services\\Abstracts\\ILanguageService.cs",
-              "ToolTip": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Services\\Abstracts\\ILanguageService.cs",
-              "RelativeToolTip": "Tabu\\Services\\Abstracts\\ILanguageService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "GameConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Configurations\\GameConfiguration.cs",
+              "RelativeDocumentMoniker": "Tabu\\Configurations\\GameConfiguration.cs",
+              "ToolTip": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Configurations\\GameConfiguration.cs",
+              "RelativeToolTip": "Tabu\\Configurations\\GameConfiguration.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwB0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T20:25:29.702Z",
+              "WhenOpened": "2024-12-19T18:37:11.134Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "LanguageCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\DTOs\\Languages\\LanguageCreateDto.cs",
-              "RelativeDocumentMoniker": "Tabu\\DTOs\\Languages\\LanguageCreateDto.cs",
-              "ToolTip": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\DTOs\\Languages\\LanguageCreateDto.cs",
-              "RelativeToolTip": "Tabu\\DTOs\\Languages\\LanguageCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Title": "LanguageConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Configurations\\LanguageConfiguration.cs",
+              "RelativeDocumentMoniker": "Tabu\\Configurations\\LanguageConfiguration.cs",
+              "ToolTip": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Configurations\\LanguageConfiguration.cs",
+              "RelativeToolTip": "Tabu\\Configurations\\LanguageConfiguration.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T20:24:51.569Z",
+              "WhenOpened": "2024-12-19T18:29:45.65Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "TabuDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\DAL\\TabuDbContext.cs",
+              "RelativeDocumentMoniker": "Tabu\\DAL\\TabuDbContext.cs",
+              "ToolTip": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\DAL\\TabuDbContext.cs",
+              "RelativeToolTip": "Tabu\\DAL\\TabuDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:28:56.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Language.cs",
+              "DocumentMoniker": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Entities\\Language.cs",
+              "RelativeDocumentMoniker": "Tabu\\Entities\\Language.cs",
+              "ToolTip": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Entities\\Language.cs",
+              "RelativeToolTip": "Tabu\\Entities\\Language.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:27:29.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Entities\\Game.cs",
+              "RelativeDocumentMoniker": "Tabu\\Entities\\Game.cs",
+              "ToolTip": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Entities\\Game.cs",
+              "RelativeToolTip": "Tabu\\Entities\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:23:02.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LanguageNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Exceptions\\Languages\\LanguageNotFoundException.cs",
+              "RelativeDocumentMoniker": "Tabu\\Exceptions\\Languages\\LanguageNotFoundException.cs",
+              "ToolTip": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Exceptions\\Languages\\LanguageNotFoundException.cs",
+              "RelativeToolTip": "Tabu\\Exceptions\\Languages\\LanguageNotFoundException.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:06:49.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LanguagesController.cs",
+              "DocumentMoniker": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Controllers\\LanguagesController.cs",
+              "RelativeDocumentMoniker": "Tabu\\Controllers\\LanguagesController.cs",
+              "ToolTip": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Controllers\\LanguagesController.cs",
+              "RelativeToolTip": "Tabu\\Controllers\\LanguagesController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAIwFcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:27:45.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "LanguageService.cs",
               "DocumentMoniker": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Services\\Implements\\LanguageService.cs",
               "RelativeDocumentMoniker": "Tabu\\Services\\Implements\\LanguageService.cs",
               "ToolTip": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Services\\Implements\\LanguageService.cs",
               "RelativeToolTip": "Tabu\\Services\\Implements\\LanguageService.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAAkAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwAoAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T19:59:07.988Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LanguagesController.cs",
-              "DocumentMoniker": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Controllers\\LanguagesController.cs",
-              "RelativeDocumentMoniker": "Tabu\\Controllers\\LanguagesController.cs",
-              "ToolTip": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Controllers\\LanguagesController.cs",
-              "RelativeToolTip": "Tabu\\Controllers\\LanguagesController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBYAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "ILanguageService.cs",
+              "DocumentMoniker": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Services\\Abstracts\\ILanguageService.cs",
+              "RelativeDocumentMoniker": "Tabu\\Services\\Abstracts\\ILanguageService.cs",
+              "ToolTip": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Services\\Abstracts\\ILanguageService.cs",
+              "RelativeToolTip": "Tabu\\Services\\Abstracts\\ILanguageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T20:06:23.551Z",
+              "WhenOpened": "2024-12-18T20:25:29.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LanguageProfile.cs",
-              "DocumentMoniker": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Profiles\\LanguageProfile.cs",
-              "RelativeDocumentMoniker": "Tabu\\Profiles\\LanguageProfile.cs",
-              "ToolTip": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Profiles\\LanguageProfile.cs",
-              "RelativeToolTip": "Tabu\\Profiles\\LanguageProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T20:11:29.27Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TabuDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\DAL\\TabuDbContext.cs",
-              "RelativeDocumentMoniker": "Tabu\\DAL\\TabuDbContext.cs",
-              "ToolTip": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\DAL\\TabuDbContext.cs",
-              "RelativeToolTip": "Tabu\\DAL\\TabuDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T20:24:09.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Program.cs",
               "RelativeDocumentMoniker": "Tabu\\Program.cs",
@@ -132,20 +179,7 @@
               "RelativeToolTip": "Tabu\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T20:05:38.42Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "Tabu\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\ServiceRegistration.cs",
-              "RelativeToolTip": "Tabu\\ServiceRegistration.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA5wAkAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T20:02:38.163Z"
+              "WhenOpened": "2024-12-18T20:05:38.42Z"
             }
           ]
         }

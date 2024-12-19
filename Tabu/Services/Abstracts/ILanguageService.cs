@@ -4,10 +4,11 @@ namespace Tabu.Services.Abstracts
 {
     public interface ILanguageService
     {
-        IEnumerable<LanguageGetDto> GetAll();
-        Task<LanguageGetDto> GetByCode(string code); 
-        Task Create(LanguageCreateDto dto);
-        Task Update(string code, LanguageCreateDto dto); 
-        Task Delete(string code);
+        Task<IEnumerable<LanguageGetDto>> GetAllAsync();
+        Task<LanguageGetDto> GetByCode(string code);
+        Task CreateAsyc(LanguageCreateDto dto);
+        Task UpdateAsync(string code, LanguageUpdateDto dto); 
+        Task DeleteAsync(string code);
+        Task CreateAsync(LanguageCreateDto dto);
     }
 }

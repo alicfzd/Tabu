@@ -59,26 +59,6 @@
       }
     },
     "/api/Languages/{code}": {
-      "get": {
-        "tags": [
-          "Languages"
-        ],
-        "parameters": [
-          {
-            "name": "code",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "string"
-            }
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      },
       "put": {
         "tags": [
           "Languages"

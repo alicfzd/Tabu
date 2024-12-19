@@ -37,22 +37,6 @@
   },
   {
     "ContainingType": "Tabu.Controllers.LanguagesController",
-    "Method": "GetByCode",
-    "RelativePath": "api/Languages/{code}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "code",
-        "Type": "System.String",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "Tabu.Controllers.LanguagesController",
     "Method": "Put",
     "RelativePath": "api/Languages/{code}",
     "HttpMethod": "PUT",

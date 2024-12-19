@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Tabu.DAL;
 using Tabu.DTOs.Languages;
+using Tabu.Exceptions;
 using Tabu.Services.Abstracts;
 
 namespace Tabu.Controllers
@@ -15,39 +16,83 @@ namespace Tabu.Controllers
         [HttpGet]
         public async Task<IActionResult> Get()
         {
-            return Ok();
+            return Ok(await _service.GetAllAsync());
         }
         [HttpPost]
         public async Task<IActionResult> Post(LanguageCreateDto dto)
         {
-            await _service.Create(dto);
-            return Created();
-        }
-        [HttpGet("{code}")]
-        public async Task<IActionResult> GetByCode(string code)
-        {
+            try
+            {
+                await _service.CreateAsync(dto);
+                return Created();
+            }
+            catch (Exception ex)
+            {
 
-                var language = await _service.GetByCode(code);
-                return Ok(language);
+                if (ex is IBaseException ibe)
+                {
+
+                    return StatusCode(ibe.StatusCode, new
+                    {
+                        StatusCode = ibe.StatusCode,
+                        Message = ibe.ErrorMessage
+
+                    });
+                }
+                else
+                {
+                    return BadRequest(new
+                    {
+                        StatusCode = StatusCodes.Status400BadRequest,
+                        Message = ex.Message
+                    });
+                }
+            }
 
         }
 
         [HttpPut("{code}")]
-        public async Task<IActionResult> Put(string code, LanguageCreateDto dto)
-        {
-           
-           await _service.Update(code, dto);
-           return NoContent();
-  
-        }
-
-        [HttpDelete("{code}")]
-        public async Task<IActionResult> Delete(string code)
+        public async Task<IActionResult> Put(string code, LanguageUpdateDto dto)
         {
 
-            await _service.Delete(code);
-            return NoContent();
-            
+            try
+            {
+                await _service.UpdateAsync(code, dto);
+                return Created();
+            }
+            catch (Exception ex)
+            {
+
+                if (ex is IBaseException ibe)
+                {
+
+                    return StatusCode(ibe.StatusCode, new
+                    {
+                        StatusCode = ibe.StatusCode,
+                        Message = ibe.ErrorMessage
+
+                    });
+                }
+                else
+                {
+                    return BadRequest(new
+                    {
+                        StatusCode = StatusCodes.Status400BadRequest,
+                        Message = ex.Message
+                    });
+                }
+
+            }
+
+            [HttpDelete("{code}")]
+            async Task<IActionResult> DeleteAsync(string code)
+            {
+
+                await _service.DeleteAsync(code);
+                return NoContent();
+
+            }
         }
     }
 }
+
