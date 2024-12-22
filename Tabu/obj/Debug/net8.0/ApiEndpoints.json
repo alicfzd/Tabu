@@ -1,12 +1,18 @@
 [
   {
     "ContainingType": "Tabu.Controllers.GamesController",
-    "Method": "Get",
+    "Method": "Create",
     "RelativePath": "api/Games",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Tabu.DTOs.Games.GameCreateDto",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   },
   {
@@ -50,7 +56,7 @@
       },
       {
         "Name": "dto",
-        "Type": "Tabu.DTOs.Languages.LanguageCreateDto",
+        "Type": "Tabu.DTOs.Languages.LanguageUpdateDto",
         "IsRequired": true
       }
     ],
@@ -70,6 +76,32 @@
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tabu.Controllers.WordsController",
+    "Method": "Post",
+    "RelativePath": "api/Words",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Tabu.DTOs.Word.WordCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tabu.Controllers.WordsController",
+    "Method": "Get",
+    "RelativePath": "api/Words",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   }
 ]

@@ -84,15 +84,13 @@ namespace Tabu.Controllers
 
             }
 
-            [HttpDelete("{code}")]
-            async Task<IActionResult> DeleteAsync(string code)
-            {
-
-                await _service.DeleteAsync(code);
-                return NoContent();
-
-            }
         }
+            [HttpDelete]
+            [Route("{code}")]
+            public async Task<IActionResult> Delete(string code)
+            {
+                return NoContent();
+            }
     }
 }
 

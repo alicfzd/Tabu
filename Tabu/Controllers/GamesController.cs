@@ -1,16 +1,18 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Tabu.DTOs.Games;
+using Tabu.Services.Abstracts;
 
 namespace Tabu.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class GamesController : ControllerBase
+    public class GamesController(IGameService _service) : ControllerBase
     {
-        [HttpGet]
-        public async Task<IActionResult> Get()
+        [HttpPost]
+        public async Task<IActionResult> Create(GameCreateDto dto)
         {
-            return Ok("Salam");
+            return Ok(await _service.AddAsync(dto));
         }
     }
 }
