@@ -15,8 +15,8 @@ namespace Tabu.Validators.Word
 
             RuleFor(x => x.BannedWords)
                 .NotNull()
-                .Must(x => x.Count() == (int)GameLevel.Hard)
-                .WithMessage((int)GameLevel.Hard + "unikal qadağan olunmuş söz yazılmalıdır");
+                .Must(x => x.Count() == (int)GameLevels.Hard)
+                .WithMessage((int)GameLevels.Hard + "unikal qadağan olunmuş söz yazılmalıdır");
 
             RuleForEach(x => x.BannedWords)
                 .NotNull()

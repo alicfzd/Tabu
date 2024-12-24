@@ -2,7 +2,10 @@
 using FluentValidation;
 using FluentValidation.AspNetCore;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
 using Tabu.DAL;
+using Tabu.ExternalServices.Implements;
+using Tabu.Enums;
 
 namespace Tabu
 {
@@ -16,7 +19,7 @@ namespace Tabu
 
             builder.Services.AddControllers();
             builder.Services.AddFluentValidationAutoValidation();
-            builder.Services.AddValidatorsFromAssemblyContaining<Program>();
+            builder.Services.AddCacheService(builder.Configuration, CacheTypes.Redis);
             builder.Services.AddAutoMapper(typeof(Program));
             builder.Services.AddServices();
             builder.Services.AddDbContext<TabuDbContext>(opt =>
@@ -36,6 +39,7 @@ namespace Tabu
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
+            app.UseTabuExceptionHandler();
 
             app.UseHttpsRedirection();
 

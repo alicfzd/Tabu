@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\99460\\Desktop\\Tabu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|c:\\users\\99460\\desktop\\tabu\\tabu\\services\\implements\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|solutionrelative:tabu\\services\\implements\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|c:\\users\\99460\\desktop\\tabu\\tabu\\exceptions\\game\\gamenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|solutionrelative:tabu\\exceptions\\game\\gamenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|c:\\users\\99460\\desktop\\tabu\\tabu\\profiles\\gameprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|solutionrelative:tabu\\profiles\\gameprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|c:\\users\\99460\\desktop\\tabu\\tabu\\dtos\\games\\gamecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|solutionrelative:tabu\\dtos\\games\\gamecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|c:\\users\\99460\\desktop\\tabu\\tabu\\exceptions\\languages\\languagenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|solutionrelative:tabu\\exceptions\\languages\\languagenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|c:\\users\\99460\\desktop\\tabu\\tabu\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|solutionrelative:tabu\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|c:\\users\\99460\\desktop\\tabu\\tabu\\controllers\\wordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|solutionrelative:tabu\\controllers\\wordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|c:\\users\\99460\\desktop\\tabu\\tabu\\services\\implements\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|solutionrelative:tabu\\services\\implements\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|c:\\users\\99460\\desktop\\tabu\\tabu\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|solutionrelative:tabu\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|c:\\users\\99460\\desktop\\tabu\\tabu\\dtos\\games\\gamestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|solutionrelative:tabu\\dtos\\games\\gamestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|c:\\users\\99460\\desktop\\tabu\\tabu\\dtos\\word\\wordforgamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C35595-C6A8-4B8C-9035-0587F94E54E6}|Tabu\\Tabu.csproj|solutionrelative:tabu\\dtos\\word\\wordforgamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Exceptions\\Game\\GameNotFoundException.cs",
+              "RelativeDocumentMoniker": "Tabu\\Exceptions\\Game\\GameNotFoundException.cs",
+              "ToolTip": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Exceptions\\Game\\GameNotFoundException.cs",
+              "RelativeToolTip": "Tabu\\Exceptions\\Game\\GameNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T19:29:25.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GameProfile.cs",
-              "DocumentMoniker": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Profiles\\GameProfile.cs",
-              "RelativeDocumentMoniker": "Tabu\\Profiles\\GameProfile.cs",
-              "ToolTip": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Profiles\\GameProfile.cs",
-              "RelativeToolTip": "Tabu\\Profiles\\GameProfile.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAzwBAAAAAAAAAAAAAAAA==",
+              "Title": "LanguageNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Exceptions\\Languages\\LanguageNotFoundException.cs",
+              "RelativeDocumentMoniker": "Tabu\\Exceptions\\Languages\\LanguageNotFoundException.cs",
+              "ToolTip": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Exceptions\\Languages\\LanguageNotFoundException.cs",
+              "RelativeToolTip": "Tabu\\Exceptions\\Languages\\LanguageNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T20:53:12.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GameCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\DTOs\\Games\\GameCreateDto.cs",
-              "RelativeDocumentMoniker": "Tabu\\DTOs\\Games\\GameCreateDto.cs",
-              "ToolTip": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\DTOs\\Games\\GameCreateDto.cs",
-              "RelativeToolTip": "Tabu\\DTOs\\Games\\GameCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T20:52:07.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WordsController.cs",
-              "DocumentMoniker": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Controllers\\WordsController.cs",
-              "RelativeDocumentMoniker": "Tabu\\Controllers\\WordsController.cs",
-              "ToolTip": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Controllers\\WordsController.cs",
-              "RelativeToolTip": "Tabu\\Controllers\\WordsController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T20:49:23.29Z",
+              "WhenOpened": "2024-12-24T19:23:15.608Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "GamesController.cs",
-              "DocumentMoniker": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Controllers\\GamesController.cs",
-              "RelativeDocumentMoniker": "Tabu\\Controllers\\GamesController.cs",
-              "ToolTip": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Controllers\\GamesController.cs",
-              "RelativeToolTip": "Tabu\\Controllers\\GamesController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAQwAsAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T20:48:52.184Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "Tabu\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\ServiceRegistration.cs",
-              "RelativeToolTip": "Tabu\\ServiceRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T20:47:40.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "GameService.cs",
               "DocumentMoniker": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Services\\Implements\\GameService.cs",
               "RelativeDocumentMoniker": "Tabu\\Services\\Implements\\GameService.cs",
               "ToolTip": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Services\\Implements\\GameService.cs",
               "RelativeToolTip": "Tabu\\Services\\Implements\\GameService.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAzwBMAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAIwDEAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T20:28:30.708Z",
+              "WhenOpened": "2024-12-24T19:22:00.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WordForGameDto.cs",
+              "DocumentMoniker": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\DTOs\\Word\\WordForGameDto.cs",
+              "RelativeDocumentMoniker": "Tabu\\DTOs\\Word\\WordForGameDto.cs",
+              "ToolTip": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\DTOs\\Word\\WordForGameDto.cs",
+              "RelativeToolTip": "Tabu\\DTOs\\Word\\WordForGameDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T19:20:25.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameStatusDto.cs",
+              "DocumentMoniker": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\DTOs\\Games\\GameStatusDto.cs",
+              "RelativeDocumentMoniker": "Tabu\\DTOs\\Games\\GameStatusDto.cs",
+              "ToolTip": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\DTOs\\Games\\GameStatusDto.cs",
+              "RelativeToolTip": "Tabu\\DTOs\\Games\\GameStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T19:18:56.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GamesController.cs",
+              "DocumentMoniker": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Controllers\\GamesController.cs",
+              "RelativeDocumentMoniker": "Tabu\\Controllers\\GamesController.cs",
+              "ToolTip": "C:\\Users\\99460\\Desktop\\Tabu\\Tabu\\Controllers\\GamesController.cs",
+              "RelativeToolTip": "Tabu\\Controllers\\GamesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T19:18:20.511Z",
               "EditorCaption": ""
             }
           ]

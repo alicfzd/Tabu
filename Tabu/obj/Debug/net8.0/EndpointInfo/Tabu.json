@@ -6,7 +6,7 @@
   },
   "paths": {
     "/api/Games": {
-      "get": {
+      "post": {
         "tags": [
           "Games"
         ],
@@ -186,7 +186,7 @@
         "type": "object",
         "properties": {
           "gameLevel": {
-            "$ref": "#/components/schemas/GameLevel"
+            "$ref": "#/components/schemas/GameLevels"
           },
           "failCount": {
             "type": "integer",
@@ -196,9 +196,9 @@
             "type": "integer",
             "format": "int32"
           },
-          "time": {
-            "type": "string",
-            "format": "date-time"
+          "seconds": {
+            "type": "integer",
+            "format": "int32"
           },
           "language": {
             "type": "string",
@@ -207,7 +207,7 @@
         },
         "additionalProperties": false
       },
-      "GameLevel": {
+      "GameLevels": {
         "enum": [
           4,
           5,

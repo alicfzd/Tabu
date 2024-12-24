@@ -3,7 +3,7 @@
     "ContainingType": "Tabu.Controllers.GamesController",
     "Method": "Create",
     "RelativePath": "api/Games",
-    "HttpMethod": "GET",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
@@ -43,7 +43,7 @@
   },
   {
     "ContainingType": "Tabu.Controllers.LanguagesController",
-    "Method": "Put",
+    "Method": "Update",
     "RelativePath": "api/Languages/{code}",
     "HttpMethod": "PUT",
     "IsController": true,
